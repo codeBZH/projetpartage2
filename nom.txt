@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Haude Thierry
+=======
+Thiery
+>>>>>>> a46050de2c0978d377a144f449becfea5f175369
 Florence
 David
 Mehdy
